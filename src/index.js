@@ -12,4 +12,4 @@ root.render(
     <App />
   </React.StrictMode>
 );
-console.log(teste)
+console.log(teste2)
